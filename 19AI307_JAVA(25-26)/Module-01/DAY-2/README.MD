@@ -7,6 +7,7 @@ In a magical building, an elevator behaves oddly: If the floor number is divisib
 To write a Java program that demonstrates the use of conditional statements (if, else if, else) to simulate the logic of the magical elevator based on a user-provided floor number.
 
 ## ALGORITHM :
+```
 1.Start the program and import the java.util.Scanner package.
 2.Inside the main method, create a Scanner object, prompt the user for a floor number, and read the integer value into a variable floorNumber.
 3.Implement the logic using an if-else if-else chain:
@@ -16,7 +17,7 @@ To write a Java program that demonstrates the use of conditional statements (if,
 7.Else (if none of the above are true), print "Floor " + floorNumber.
 8.Close the Scanner object to prevent resource leaks.
 9.End the program.
-
+```
 ## PROGRAM:
  ```
 /*
@@ -55,4 +56,5 @@ public class Java{
 
 
 ## RESULT:
+Thus, the Java program to implement conditional statements for the magical elevator logic was successfully compiled and executed, providing the correct output for various inputs.
 
