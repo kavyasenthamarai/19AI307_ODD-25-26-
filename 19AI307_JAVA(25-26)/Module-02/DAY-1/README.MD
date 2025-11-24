@@ -34,7 +34,7 @@ To write a Java program to implement Classes and Objects using a Car class and d
  ```
 Program to implement a Class and Objects using Java
 Developed by: KAVYA K
-RegisterNumber: 212222040004
+RegisterNumber: 212222230065
 ```
 
 ## SOURCE CODE:
@@ -70,6 +70,7 @@ public class prog {
 
 ## RESULT:
 The program to implement a class and objects using Java was successfully executed and the details of two car objects were displayed.
+
 
 
 
