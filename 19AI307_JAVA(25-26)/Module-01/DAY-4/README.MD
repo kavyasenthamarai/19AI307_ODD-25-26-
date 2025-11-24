@@ -25,7 +25,7 @@ To write a Java program that calculates and displays the sum of even and odd ele
 
 Program to implement a Array concept using Java
 Developed by: KAVYA K
-RegisterNumber:212224240038
+RegisterNumber: 212222230065
 
 ```
 
@@ -74,4 +74,5 @@ public class main
 ## RESULT:
 
 Thus, the program executes successfully and correctly calculates the sum of even and odd elements in the array as expected.
+
 
