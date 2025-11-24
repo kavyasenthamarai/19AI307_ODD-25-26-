@@ -20,7 +20,7 @@ To write a program that prints a right-angled triangle star pattern, where the n
 
 Program to implement a Looping Statement using Java
 Developed by: KAVYA K
-RegisterNumber:212224240038
+RegisterNumber: 212222230065
 
 ```
 
@@ -56,5 +56,6 @@ public class RightAngledTriangle
 
 ## RESULT:
 Thus, the given program executes successfully, and the output matches the expected pattern for a right-angled triangle, verifying that the stars are printed correctly row by row.
+
 
 
