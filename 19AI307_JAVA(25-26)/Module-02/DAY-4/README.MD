@@ -31,7 +31,7 @@ To write a Java program that demonstrates variable scope by accessing a static v
  ```
 Program to implement a Variable scope and Constructor using Java
 Developed by: KAVYA K
-RegisterNumber: 212222040004
+RegisterNumber: 212222230065
 ```
 
 ## SOURCE CODE:
@@ -61,6 +61,7 @@ public class prog
 
 ## RESULT:
 The program to demonstrate variable scope and access a static variable using both class name and object was successfully executed.
+
 
 
 
