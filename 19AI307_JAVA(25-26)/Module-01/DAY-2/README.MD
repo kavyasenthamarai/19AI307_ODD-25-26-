@@ -19,8 +19,8 @@ To create a program that simulates the lighting behavior of a haunted house, det
  ```
 
 Program to implement a conditional statement using Java
-Developed by: Kavya K
-RegisterNumber:212224240038
+Developed by: KAVYA K
+RegisterNumber: 212222230065
 
 ```
 
@@ -73,5 +73,6 @@ public class Main
 
 ## RESULT:
 Thus, the given program executes successfully, and the output matches the expected results for different hours of entry, verifying that the haunted house lighting behavior is correctly simulated..
+
 
 
