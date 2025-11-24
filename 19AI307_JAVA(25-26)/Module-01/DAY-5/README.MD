@@ -24,7 +24,7 @@ To write a Java program that takes a string as input and prints its reverse.
 
 Program to implement a Strings and Math Function using Java
 Developed by: KAVYA K
-RegisterNumber:212224240038
+RegisterNumber: 212222230065
 
 ```
 
@@ -49,4 +49,5 @@ public class main
 
 ## RESULT:
 Thus, the program executes successfully and correctly reverses the input string, displaying the expected output.
+
 
